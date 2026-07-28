@@ -1,0 +1,7 @@
+C:\Users\B09S304est\Documents\Simón Arango V\Fundamentos-de-programaci-nMJ12Sim-nArango\1.1VariablesConstantes\bin\Debug\1.1VariablesConstantes.exe.config
+C:\Users\B09S304est\Documents\Simón Arango V\Fundamentos-de-programaci-nMJ12Sim-nArango\1.1VariablesConstantes\bin\Debug\1.1VariablesConstantes.exe
+C:\Users\B09S304est\Documents\Simón Arango V\Fundamentos-de-programaci-nMJ12Sim-nArango\1.1VariablesConstantes\bin\Debug\1.1VariablesConstantes.pdb
+C:\Users\B09S304est\Documents\Simón Arango V\Fundamentos-de-programaci-nMJ12Sim-nArango\1.1VariablesConstantes\obj\Debug\1.1VariablesConstantes.csproj.AssemblyReference.cache
+C:\Users\B09S304est\Documents\Simón Arango V\Fundamentos-de-programaci-nMJ12Sim-nArango\1.1VariablesConstantes\obj\Debug\1.1VariablesConstantes.csproj.CoreCompileInputs.cache
+C:\Users\B09S304est\Documents\Simón Arango V\Fundamentos-de-programaci-nMJ12Sim-nArango\1.1VariablesConstantes\obj\Debug\1.1VariablesConstantes.exe
+C:\Users\B09S304est\Documents\Simón Arango V\Fundamentos-de-programaci-nMJ12Sim-nArango\1.1VariablesConstantes\obj\Debug\1.1VariablesConstantes.pdb
