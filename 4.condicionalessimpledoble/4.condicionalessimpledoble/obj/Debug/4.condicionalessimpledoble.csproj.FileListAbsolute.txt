@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\simon arango\Fundamentos-de-programaci-nMJ12Sim-nArango\4.condicionalessimpledoble\4.condicionalessimpledoble\bin\Debug\4.condicionalessimpledoble.exe.config
+C:\Users\B09S104est\Documents\simon arango\Fundamentos-de-programaci-nMJ12Sim-nArango\4.condicionalessimpledoble\4.condicionalessimpledoble\bin\Debug\4.condicionalessimpledoble.exe
+C:\Users\B09S104est\Documents\simon arango\Fundamentos-de-programaci-nMJ12Sim-nArango\4.condicionalessimpledoble\4.condicionalessimpledoble\bin\Debug\4.condicionalessimpledoble.pdb
+C:\Users\B09S104est\Documents\simon arango\Fundamentos-de-programaci-nMJ12Sim-nArango\4.condicionalessimpledoble\4.condicionalessimpledoble\obj\Debug\4.condicionalessimpledoble.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\simon arango\Fundamentos-de-programaci-nMJ12Sim-nArango\4.condicionalessimpledoble\4.condicionalessimpledoble\obj\Debug\4.condicionalessimpledoble.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\simon arango\Fundamentos-de-programaci-nMJ12Sim-nArango\4.condicionalessimpledoble\4.condicionalessimpledoble\obj\Debug\4.condicionalessimpledoble.exe
+C:\Users\B09S104est\Documents\simon arango\Fundamentos-de-programaci-nMJ12Sim-nArango\4.condicionalessimpledoble\4.condicionalessimpledoble\obj\Debug\4.condicionalessimpledoble.pdb
