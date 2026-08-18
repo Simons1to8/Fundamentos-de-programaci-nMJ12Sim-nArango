@@ -1,0 +1,7 @@
+C:\Users\B09S304est\Documents\Simon Arango V\Fundamentos-de-programaci-nMJ12Sim-nArango\TallerCONDICIONALES\bin\Debug\TallerCONDICIONALES.exe.config
+C:\Users\B09S304est\Documents\Simon Arango V\Fundamentos-de-programaci-nMJ12Sim-nArango\TallerCONDICIONALES\bin\Debug\TallerCONDICIONALES.exe
+C:\Users\B09S304est\Documents\Simon Arango V\Fundamentos-de-programaci-nMJ12Sim-nArango\TallerCONDICIONALES\bin\Debug\TallerCONDICIONALES.pdb
+C:\Users\B09S304est\Documents\Simon Arango V\Fundamentos-de-programaci-nMJ12Sim-nArango\TallerCONDICIONALES\obj\Debug\TallerCONDICIONALES.csproj.AssemblyReference.cache
+C:\Users\B09S304est\Documents\Simon Arango V\Fundamentos-de-programaci-nMJ12Sim-nArango\TallerCONDICIONALES\obj\Debug\TallerCONDICIONALES.csproj.CoreCompileInputs.cache
+C:\Users\B09S304est\Documents\Simon Arango V\Fundamentos-de-programaci-nMJ12Sim-nArango\TallerCONDICIONALES\obj\Debug\TallerCONDICIONALES.exe
+C:\Users\B09S304est\Documents\Simon Arango V\Fundamentos-de-programaci-nMJ12Sim-nArango\TallerCONDICIONALES\obj\Debug\TallerCONDICIONALES.pdb
