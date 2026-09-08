@@ -1,0 +1,7 @@
+C:\Users\B09S304est\Documents\Simon Arango V\Fundamentos-de-programaci-nMJ12Sim-nArango\TallerPreparacion\bin\Debug\TallerPreparacion.exe.config
+C:\Users\B09S304est\Documents\Simon Arango V\Fundamentos-de-programaci-nMJ12Sim-nArango\TallerPreparacion\bin\Debug\TallerPreparacion.exe
+C:\Users\B09S304est\Documents\Simon Arango V\Fundamentos-de-programaci-nMJ12Sim-nArango\TallerPreparacion\bin\Debug\TallerPreparacion.pdb
+C:\Users\B09S304est\Documents\Simon Arango V\Fundamentos-de-programaci-nMJ12Sim-nArango\TallerPreparacion\obj\Debug\TallerPreparacion.csproj.AssemblyReference.cache
+C:\Users\B09S304est\Documents\Simon Arango V\Fundamentos-de-programaci-nMJ12Sim-nArango\TallerPreparacion\obj\Debug\TallerPreparacion.csproj.CoreCompileInputs.cache
+C:\Users\B09S304est\Documents\Simon Arango V\Fundamentos-de-programaci-nMJ12Sim-nArango\TallerPreparacion\obj\Debug\TallerPreparacion.exe
+C:\Users\B09S304est\Documents\Simon Arango V\Fundamentos-de-programaci-nMJ12Sim-nArango\TallerPreparacion\obj\Debug\TallerPreparacion.pdb
