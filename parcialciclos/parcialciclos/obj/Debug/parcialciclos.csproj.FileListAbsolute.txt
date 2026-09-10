@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\simon arango\parcialciclos\parcialciclos\bin\Debug\parcialciclos.exe.config
+C:\Users\B09S104est\Documents\simon arango\parcialciclos\parcialciclos\bin\Debug\parcialciclos.exe
+C:\Users\B09S104est\Documents\simon arango\parcialciclos\parcialciclos\bin\Debug\parcialciclos.pdb
+C:\Users\B09S104est\Documents\simon arango\parcialciclos\parcialciclos\obj\Debug\parcialciclos.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\simon arango\parcialciclos\parcialciclos\obj\Debug\parcialciclos.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\simon arango\parcialciclos\parcialciclos\obj\Debug\parcialciclos.exe
+C:\Users\B09S104est\Documents\simon arango\parcialciclos\parcialciclos\obj\Debug\parcialciclos.pdb
