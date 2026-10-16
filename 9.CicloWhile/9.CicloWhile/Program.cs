@@ -1,69 +1,52 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-
-namespace _9.CicloWhile
+namespace _9.Ciclowhile
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-
-            //int numero = 0;
-            // int contador = 0;
-            //int cantidad = 0;
-            // int contadorPositivi = 0;
-            //int contadornegativo = 0;
-            // int contadorceros = 0;
-
-            // Console.WriteLine("ingrese la cantidad de números que va introducir");
-            // cantidad = int.Parse(Console.ReadLine());
-
-
-            // while (contador < cantidad)
-            {
-                //contador++;
-                // Console.WriteLine("Ingrese el número a evaluar");
-                // numero = int.Parse(Console.ReadLine());
-                // if (numero > 0)
-                {
-                    // contadorPositivi++;
-                }
-                // else 
-                {
-                    //if(numero<0)
-                    {
-                        //contadornegativo++;
-                    }
-                    // else
-                    {
-                        //contadorceros++;
-                    }
-                }
-
-                // Console.WriteLine($"Cantidad de positivos:{contadorPositivi}, cantidad de megativos: {contadornegativo}, cantidad de 0: {contadorceros}");
-
-
-                int contadordepares = 0;
-                int contador = 1;
-                int rango = 0;
-
-                Console.WriteLine(" ingrese el rango de numeros que quiere evaluar");
-                rango = int.Parse(Console.ReadLine());
-
-                while(contador<=rango )
-                {
-                    if (contador % 2 == 0) 
-                    {
-                        contadordepares++;
-                        Console.WriteLine($"{contador} - ");
-                    }
-                    contador++;
-                }
-
-                Console.WriteLine($"La cantidad de numeros pares en el rango del 1 al {rango} es: {contadordepares}");
-                
-            }
+            byte cantidadNumeros = 0;
+            byte contador = 0;
+            byte contadorPositivos = 0;
+            byte contadorNegativos = 0;
+            byte contadorCeros;
+            byte numero = 0;
            
-        }
+
+            Console.WriteLine("Cuál es la cantidad de números a evaluar"); cantidadNumeros = byte.Parse(Console.ReadLine());
+
+            while (contador <= cantidadNumeros)
+            {
+            /*    contador++;
+                Console.WriteLine("Ingrese el número a evaluar");
+                numero = byte.Parse(Console.ReadLine());
+
+                if (numero == 0)
+                {
+                    contadorCeros++;
+                }
+                else
+                {
+                    if (numero > 0)
+                    {
+                        contadorPositivos++;
+                    }
+                    else
+                    {
+                        contadorNegativos++;
+                    }
+                }
+            }
+            Console.WriteLine($"Mayores que 0: {contadorPositivos}, menores que cero: {contadorNegativos}, iguales a cero: {contadorCeros}");*/
+       }
+
+
+         
+      
     }
 }
