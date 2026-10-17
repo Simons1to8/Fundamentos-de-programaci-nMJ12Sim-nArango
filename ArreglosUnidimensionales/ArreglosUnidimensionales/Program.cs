@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _15.ArreglosUnidimensionales
+namespace ArreglosUnidimensionales
 {
     internal class Program
     {
